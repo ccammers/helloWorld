@@ -1,0 +1,9 @@
+{
+	"name" : "Certilytics ChartJS",
+	"description" : "Qlik Sense Extension using Chart.js(http://www.chartjs.org/). Originally Developed By Masaki Hamano. Improvements By Solve.",
+	"icon" : "pie-chart",
+	"type" : "visualization",
+	"version": "0.1.1",
+	"preview" : "./lib/images/chartjs.png",
+	"author": "Masaki Hamano & Solve"
+}
